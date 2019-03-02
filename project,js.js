@@ -1,2 +1,3 @@
 console.log(54);
-cosole.log('hello there');
+console.log('hello there');
+console.log('I need a sleep');
